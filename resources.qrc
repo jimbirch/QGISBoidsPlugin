@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/Boids_Model" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>
